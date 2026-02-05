@@ -1,0 +1,8 @@
+# Python Dependencies for SMS Gateway Messenger Server
+
+flask>=2.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional but recommended
+gunicorn>=21.2.0  # Production WSGI server
